@@ -1,0 +1,47 @@
+body {
+  margin: 0 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+.header-section {
+  width: auto;
+
+
+}
+
+.logo-img {
+  position: relative;
+  top: -30px;
+}
+.menu-container {
+  position: relative;
+  top: -50px;
+
+}
+.menu-btn {
+  background-color: white;
+  border-top: none; border-left: none; border-right: none;
+  border-color: #e15c5c;
+  height: 60px;
+  width: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.middle-section {
+  background-color: #fff;
+  height: 100%;
+
+}
+
+.yoga-img {
+  float: left;
+  margin-right: 50px;
+  width: 50%;
+}
+.yoga-title {
+  padding-top: 80px;
+  padding-right: 40px;
+
+}
